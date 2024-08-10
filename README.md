@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-Technion ECE 046211 - Deep Learning
+Technion ECE 046211 - Deep Learning Evyatar Cohen and Reut Cohen Project
   <br>
   <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/dl_intro_anim.gif" height="200">
 </h1>
