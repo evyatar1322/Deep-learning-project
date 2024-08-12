@@ -1,0 +1,14 @@
+In this project we used several datasets.
+You can find the data in the link below
+
+Data sets that we used:
+https://www.kaggle.com/datasets/sagyamthapa/handwritten-math-symbols
+https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data
+
+
+Extra:
+•	https://www.kaggle.com/datasets/michelheusser/handwritten-digits-and-operators 
+•	https://www.kaggle.com/datasets/clarencezhao/handwritten-math-symbol-dataset
+•	https://www.kaggle.com/datasets/sagyamthapa/handwritten-math-symbols
+•	https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data
+•	https://www.kaggle.com/datasets/patrikmesec/math-operators-and-digits
