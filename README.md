@@ -11,9 +11,10 @@
 
 # Handwritten Mathematical Expression Solver Using YOLO
 
+
 <h1 align="center">
   <br>
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/success_README.jpg" height="200">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/success_readme.jpg" height="200">
   <br>
 </h1>
 
