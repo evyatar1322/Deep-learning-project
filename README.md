@@ -38,4 +38,23 @@ This project aims to develop a system capable of detecting and solving handwritt
 - **Custom Instructions:** Tailor the installation and usage instructions according to the specific details of your project setup and environment.
 - **License and Acknowledgments:** Modify these sections as needed to appropriately credit any resources or individuals that contribute to your project.
 
-This README provides a clear and structured way for users to understand, set up, and use your project effectively.
+### Libraries that are required for the model
+
+
+|Library         |
+|----------------|
+|`numpy`| 
+|`matplotlib`|
+|`zipfile`|
+|`os`|
+|`random`| 
+|`shutil`| 
+|`cv2`| 
+|`time`|
+|`torch`|
+|`from torchvision import datasets, transforms`|
+|`from torch.utils.data import DataLoader, Dataset`| 
+|`from PIL import Image`| 
+|`from google.colab import drive`|
+|`pip install -q ultralytics`|
+
