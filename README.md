@@ -40,7 +40,6 @@ This project aims to develop a system capable of detecting and solving handwritt
 
 ### Libraries that are required for the model
 
-
 |Library         |
 |----------------|
 |`numpy`| 
@@ -56,5 +55,3 @@ This project aims to develop a system capable of detecting and solving handwritt
 |`from torch.utils.data import DataLoader, Dataset`| 
 |`from PIL import Image`| 
 |`from google.colab import drive`|
-|`pip install -q ultralytics`|
-
