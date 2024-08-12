@@ -11,6 +11,12 @@
 
 # Handwritten Mathematical Expression Solver Using YOLO
 
+<h1 align="center">
+  <br>
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/success_README.jpg" height="200">
+  <br>
+</h1>
+
 ## Project Overview
 This project aims to develop a system capable of detecting and solving handwritten mathematical expressions using a YOLO (You Only Look Once) model. The primary objective is to train the YOLO model to accurately recognize digits and mathematical operators, process an image containing a handwritten equation, and then compute and display the solution.
 
