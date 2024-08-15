@@ -41,6 +41,7 @@ of the objects within the image and their corresponding class labels.
 This step is crucial for training the YOLO model, as it provides the 
 necessary data for the model to learn the relationships between the 
 images and the object classes they contain.
+(class_id center_x center_y width height)
 <h1 align="center">
   <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/05Yyjvq9.jpg" height="100"></td>
    <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/text05Yyjvq9.jpg" height="100"></td>
@@ -50,6 +51,9 @@ images and the object classes they contain.
 In this stage, we use a custom script to generate test equations from 
 images not used during training. This includes both programmatically 
 generated equations from new data base and equations written by hand.
+<h1 align="center">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/equation.jpg" height="100">
+</h1>
 
 ### 🎓 Third Step: Training the Model
 With the prepared dataset, we train the YOLOv10 model. The hyperparameters 
@@ -70,16 +74,15 @@ Once satisfactory performance is achieved through training and validation,
 we evaluate the model on the test set. This final step involves calculating 
 the model's accuracy and determining its effectiveness in solving handwritten 
 mathematical expressions.
+<h1 align="center">
+  <tr>
+    <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/same_data_result.jpg" height="75"></td>
+    <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/other_data_result.jpg" height="75"></td>
+    <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/our_result.jpg" height="75"></td>
+  </tr>
+</h1>
 
 
-
-
-
-### Notes: TODO
-- **Repository Links:** Replace placeholders like `https://github.com/your-username/your-project-repository.git` and `your-email@example.com` with actual links and contact details.
-- **Dependencies:** You might need to create a `requirements.txt` file that lists all the Python libraries required for your project.
-- **Custom Instructions:** Tailor the installation and usage instructions according to the specific details of your project setup and environment.
-- **License and Acknowledgments:** Modify these sections as needed to appropriately credit any resources or individuals that contribute to your project.
 
 ### Libraries that are required for the model
 
