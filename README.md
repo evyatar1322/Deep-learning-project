@@ -42,7 +42,8 @@ This step is crucial for training the YOLO model, as it provides the
 necessary data for the model to learn the relationships between the 
 images and the object classes they contain.
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/dl_intro_anim.gif" height="200">
+  <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/05Yyjvq9.jpg" height="100"></td>
+   <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/text05Yyjvq9.jpg" height="100"></td>
 </h1>
 
 ### 🧩 Second Step: Creating Test Equations
