@@ -32,6 +32,48 @@ This project aims to develop a system capable of detecting and solving handwritt
    git clone https://github.com/evyatar1322/Deep-learning-project
 
 
+## ✨ Flow ✨
+
+### 📂 First Step: Preparing the Dataset
+The initial step involves processing the dataset by generating an 
+annotation file for each image. This file contains the coordinates 
+of the objects within the image and their corresponding class labels. 
+This step is crucial for training the YOLO model, as it provides the 
+necessary data for the model to learn the relationships between the 
+images and the object classes they contain.
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/dl_intro_anim.gif" height="200">
+</h1>
+
+### 🧩 Second Step: Creating Test Equations
+In this stage, we use a custom script to generate test equations from 
+images not used during training. This includes both programmatically 
+generated equations from new data base and equations written by hand.
+
+### 🎓 Third Step: Training the Model
+With the prepared dataset, we train the YOLOv10 model. The hyperparameters 
+for training are selected experimentally, allowing for fine-tuning of the 
+model to achieve optimal performance. This iterative process helps to 
+enhance the model's accuracy in detecting and classifying handwritten 
+digits and operators.
+
+### 🧪 Fourth Step: Testing and Refining
+Post-training, we test the model by feeding it images of equations from the validation set. The 
+model processes these images, identifying and classifying the digits and 
+operators.
+
+#### Repeat steps 3 and 4 to get the best results
+
+### 🎯 Fifth Step: Final Evaluation
+Once satisfactory performance is achieved through training and validation, 
+we evaluate the model on the test set. This final step involves calculating 
+the model's accuracy and determining its effectiveness in solving handwritten 
+mathematical expressions.
+
+
+
+
+
 ### Notes: TODO
 - **Repository Links:** Replace placeholders like `https://github.com/your-username/your-project-repository.git` and `your-email@example.com` with actual links and contact details.
 - **Dependencies:** You might need to create a `requirements.txt` file that lists all the Python libraries required for your project.
