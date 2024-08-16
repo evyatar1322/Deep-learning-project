@@ -78,9 +78,11 @@ the model's accuracy and determining its effectiveness in solving handwritten
 mathematical expressions.
 <h1 align="center">
   <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection1.jpg" height="100">
-  <tr>
+  </h1>
+  <h1 align="center">
   <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection2.jpg" height="100">
-    <tr>
+  </h1>
+  <h1 align="center">
   <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/miss_detection.jpg" height="100">
 </h1>
 
