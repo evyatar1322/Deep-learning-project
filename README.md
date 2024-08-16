@@ -63,9 +63,11 @@ enhance the model's accuracy in detecting and classifying handwritten
 digits and operators.
 
 ### 🧪 Fourth Step: Testing and Refining
-Post-training, we test the model by feeding it images of equations from the validation set. The 
-model processes these images, identifying and classifying the digits and 
-operators.
+Post-training, we test the model by feeding it images of equations from the validation set. 
+The model processes these images, identifying and classifying the digits and operators.
+<h1 align="center">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection.jpg" height="100">
+</h1>
 
 #### Repeat steps 3 and 4 to get the best results
 
