@@ -14,7 +14,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/success_readme.jpg" height="200">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection.jpg" height="200">
   <br>
 </h1>
 
@@ -76,6 +76,16 @@ Once satisfactory performance is achieved through training and validation,
 we evaluate the model on the test set. This final step involves calculating 
 the model's accuracy and determining its effectiveness in solving handwritten 
 mathematical expressions.
+<h1 align="center">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection1.jpg" height="100">
+</h1>
+<h1 align="center">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection2.jpg" height="100">
+</h1>
+<h1 align="center">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/miss_detection.jpg" height="100">
+</h1>
+
 <h1 align="center">
   <tr>
     <td><img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/same_data_result.jpg" height="75"></td>
