@@ -66,7 +66,7 @@ digits and operators.
 Post-training, we test the model by feeding it images of equations from the validation set. 
 The model processes these images, identifying and classifying the digits and operators.
 <h1 align="center">
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/success_readme.jpg" height="100">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/success_readme.jpg" height="150">
 
 #### Repeat steps 3 and 4 to get the best results
 </h1>
@@ -77,13 +77,13 @@ we evaluate the model on the test set. This final step involves calculating
 the model's accuracy and determining its effectiveness in solving handwritten 
 mathematical expressions.
 <h1 align="center">
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection1.jpg" height="100">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection1.jpg" height="150">
   </h1>
   <h1 align="center">
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection2.jpg" height="100">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection2.jpg" height="150">
   </h1>
   <h1 align="center">
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/miss_detection.jpg" height="100">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/miss_detection.jpg" height="150">
 </h1>
 
 <h1 align="center">
