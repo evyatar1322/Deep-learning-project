@@ -14,7 +14,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection.jpg" height="200">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/detection.jpg" height="150">
   <br>
 </h1>
 
