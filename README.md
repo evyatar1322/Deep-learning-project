@@ -52,7 +52,7 @@ In this stage, we use a custom script to generate test equations from
 images not used during training. This includes both programmatically 
 generated equations from new data base and equations written by hand.
 <h1 align="center">
-  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/equation2.png" height="100">
+  <img src="https://github.com/evyatar1322/Deep-learning-project/blob/main/images/equation2.png" height="70">
 </h1>
 
 ### 🎓 Third Step: Training the Model
