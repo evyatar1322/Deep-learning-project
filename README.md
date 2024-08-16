@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <br>
- Deep Learning -  
-  Evyatar Cohen and Reut Cohen Project
+ Deep Learning Project -  
+  Evyatar Cohen and Reut Cohen 
   <br>
   <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/dl_intro_anim.gif" height="200">
 </h1>
