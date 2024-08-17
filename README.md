@@ -114,5 +114,5 @@ mathematical expressions.
 |`from google.colab import drive`|
 
 #### Note:
-The running results of our model and the weights can be found in **"section_backup.zip"**
+The running results of our model and the weights can be found in **"session_backup.zip"**
 
