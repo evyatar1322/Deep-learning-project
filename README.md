@@ -95,7 +95,6 @@ mathematical expressions.
 </h1>
 
 
-
 ### Libraries that are required for the model
 
 |Library         |
@@ -113,3 +112,7 @@ mathematical expressions.
 |`from torch.utils.data import DataLoader, Dataset`| 
 |`from PIL import Image`| 
 |`from google.colab import drive`|
+
+#### Note:
+The running results of our model and the weights can be found in **"section_backup.zip"**
+
