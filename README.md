@@ -31,6 +31,14 @@ This project aims to develop a system capable of detecting and solving handwritt
    ```bash
    git clone https://github.com/evyatar1322/Deep-learning-project
 
+   
+## Instructions for running the model
+- **Upload dataset** - To train the model from scratch, you need to upload the folder "data3.zip" which contains folders of all the operators and digits,
+So for example in "data3.zip/0" there are pictures of the number 0
+- **Train the model from scratch** - The "Training.ipynb" contains the model training code.
+- **Use trained model** - In the file "Calculating.ipynb" you can load the trained model and run it on an image of an equation of your choice.
+- **Our trained model** - Inside "session_backup.zip\detect\train\weights" you can find our weights for the model
+ 
 
 ## ✨ Flow ✨
 
